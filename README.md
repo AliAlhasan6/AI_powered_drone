@@ -52,7 +52,6 @@ This project aims to automate weed detection using deep learning. By leveraging 
 ### **Requirements**
 - Python 3.7 or later
 - TensorFlow 2.0 or later
-- Other dependencies listed in `requirements.txt`
 
 ### **Installation**
 1. Clone the repository:
