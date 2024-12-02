@@ -2,6 +2,7 @@
  
 This repository contains the code for a machine learning model designed to detect weeds in images using the InceptionV3 architecture with a custom classification head. The model employs data augmentation, a dynamic learning rate scheduler, and various callbacks to ensure robust training and performance.
 
+
 Table of Contents
 Project Overview
 Directory Structure
