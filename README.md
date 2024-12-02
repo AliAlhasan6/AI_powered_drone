@@ -57,7 +57,7 @@ This project aims to automate weed detection using deep learning. By leveraging 
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weed-detection.git
+   git clone https://github.com/AliAlhasan6/AI_powered_drone.git
    cd weed-detection
    ```
 
@@ -117,30 +117,10 @@ model = load_model('best_model.h5.keras')
 - **Batch Size**: 128
 - **Loss Function**: Categorical Crossentropy
 - **Optimizer**: Adam
-- **Epochs**: 10 (Early stopping enabled)
-
----
-
-## **Results**
-
-### **Training Metrics**:
-- **Accuracy**: ~XX% (replace with actual results)
-- **Validation Accuracy**: ~XX%  
-- **Best Epoch**: XX  
-
-You can include graphs of training and validation accuracy/loss for better visualization.
+- **Epochs**: 10 
 
 ---
 
 ## **Acknowledgements**
-- Dataset: [WeedCrop Dataset](https://www.kaggle.com/xxx/weedcrop-dataset) (replace with actual link if applicable).
-- Pretrained Model: [InceptionV3](https://keras.io/api/applications/inceptionv3/).
+- Dataset: [WeedCrop Dataset](https://www.kaggle.com/datasets/jaidalmotra/weed-detection).
 
----
-
-### **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This reorganized version should render cleanly on GitHub. Let me know if further adjustments are needed!
